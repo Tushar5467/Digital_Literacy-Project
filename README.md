@@ -2,7 +2,7 @@ CSE0001
 
 Name: Tushar Chakraborty
 
-Reg No.: 25BAI10842
+Reg No.: 24BAI10842
 
 Branch: Computer Science (AI&ML) Engineering
 
